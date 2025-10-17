@@ -1,0 +1,5 @@
+{
+  "name": "Raikar's Questionnaire",
+  "description": "An application for tutors to create and administer timed tests for students. Tutors can upload questions via a CSV file or generate them using AI. Students can take the tests and view their results immediately.",
+  "requestFramePermissions": []
+}
